@@ -1,5 +1,5 @@
 .theme-teal .navbar {
-  background-color: #009688; }
+  background-color: #94fff4; }
 
 .theme-teal .navbar-brand {
   color: #fff; }
@@ -31,7 +31,7 @@
   background-color: rgba(0, 0, 0, 0); }
   .theme-teal .sidebar .menu .list li.active > :first-child i,
   .theme-teal .sidebar .menu .list li.active > :first-child span {
-    color: #009688; }
+    color: #87fff3; }
 
 .theme-teal .sidebar .menu .list .toggled {
   background-color: rgba(0, 0, 0, 0); }
@@ -42,4 +42,4 @@
 .theme-teal .sidebar .legal {
   background-color: #fff; }
   .theme-teal .sidebar .legal .copyright a {
-    color: #009688 !important; }
+    color: #91fff4 !important; }

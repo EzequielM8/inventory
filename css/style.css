@@ -1849,14 +1849,14 @@
         color: #777; }
 
 .bg-red {
-  background-color: #F44336 !important;
+  background-color: #36def4 !important;
   color: #fff; }
   .bg-red .content .text,
   .bg-red .content .number {
     color: #fff !important; }
 
 .bg-pink {
-  background-color: #E91E63 !important;
+  background-color: #56ffff !important;
   color: #fff; }
   .bg-pink .content .text,
   .bg-pink .content .number {
@@ -1905,7 +1905,7 @@
     color: #fff !important; }
 
 .bg-teal {
-  background-color: #009688 !important;
+  background-color: #6bfff0 !important;
   color: #fff; }
   .bg-teal .content .text,
   .bg-teal .content .number {
@@ -1961,7 +1961,7 @@
     color: #fff !important; }
 
 .bg-brown {
-  background-color: #795548 !important;
+  background-color: #fff1ec !important;
   color: #fff; }
   .bg-brown .content .text,
   .bg-brown .content .number {
@@ -2020,7 +2020,7 @@
   color: #00BCD4 !important; }
 
 .col-teal {
-  color: #009688 !important; }
+  color: #8dfff4 !important; }
 
 .col-green {
   color: #4CAF50 !important; }
@@ -2291,13 +2291,13 @@
   .demo-choose-skin .blue {
     background-color: #2196F3; }
   .demo-choose-skin .light-blue {
-    background-color: #03A9F4; }
+    background-color: #fffd87; }
   .demo-choose-skin .cyan {
     background-color: #00BCD4; }
   .demo-choose-skin .teal {
-    background-color: #009688; }
+    background-color: #6afff0; }
   .demo-choose-skin .green {
-    background-color: #4CAF50; }
+    background-color: #3aff41; }
   .demo-choose-skin .light-green {
     background-color: #8BC34A; }
   .demo-choose-skin .lime {
@@ -2737,7 +2737,7 @@ section.content {
 .noUi-connect {
   height: 3px;
   top: 6px;
-  background-color: #26A69A;
+  background-color: #7ffff2;
   box-shadow: none; }
 
 .noUi-horizontal .noUi-handle {
@@ -2745,7 +2745,7 @@ section.content {
   height: 15px;
   border-radius: 50%;
   box-shadow: none;
-  background-color: #26A69A;
+  background-color: #5cffef;
   border: none;
   left: -5px;
   top: -6px;
@@ -2766,7 +2766,7 @@ section.content {
   width: 30px;
   top: -17px;
   left: -2px;
-  background-color: #26A69A;
+  background-color: #5effef;
   border-radius: 50%;
   transition: border-radius 0.25s cubic-bezier(0.215, 0.61, 0.355, 1), transform 0.25s cubic-bezier(0.215, 0.61, 0.355, 1);
   transform: scale(0.5) rotate(-45deg);
@@ -3477,8 +3477,8 @@ section.content {
   border-bottom: 2px solid #00BCD4; }
 
 [type="checkbox"]:checked.chk-col-teal + label:before {
-  border-right: 2px solid #009688;
-  border-bottom: 2px solid #009688; }
+  border-right: 2px solid #a8fff6;
+  border-bottom: 2px solid #aafff7; }
 
 [type="checkbox"]:checked.chk-col-green + label:before {
   border-right: 2px solid #4CAF50;
@@ -3532,8 +3532,8 @@ section.content {
   top: 0;
   width: 20px;
   height: 20px;
-  border: 2px solid #26a69a;
-  background-color: #26a69a;
+  border: 2px solid #7bfff2;
+  background-color: #74fff1;
   z-index: 0; }
 
 [type="checkbox"].filled-in:checked + label:before {
@@ -3573,8 +3573,8 @@ section.content {
   background-color: #00BCD4; }
 
 [type="checkbox"].filled-in:checked.chk-col-teal + label:after {
-  border: 2px solid #009688;
-  background-color: #009688; }
+  border: 2px solid #8ffff4;
+  background-color: #86fff3; }
 
 [type="checkbox"].filled-in:checked.chk-col-green + label:after {
   border: 2px solid #4CAF50;
@@ -3671,8 +3671,8 @@ section.content {
   border-color: #00BCD4; }
 
 [type="radio"].radio-col-teal:checked + label:after {
-  background-color: #009688;
-  border-color: #009688; }
+  background-color: #6dfff0;
+  border-color: #a1fff6; }
 
 [type="radio"].radio-col-green:checked + label:after {
   background-color: #4CAF50;
@@ -3779,10 +3779,10 @@ section.content {
   border: 2px solid #00BCD4; }
 
 [type="radio"].with-gap.radio-col-teal:checked + label:before {
-  border: 2px solid #009688; }
+  border: 2px solid #92fff4; }
 
 [type="radio"].with-gap.radio-col-teal:checked + label:after {
-  background-color: #009688;
+  background-color: #6efff1;
   border: 2px solid #009688; }
 
 [type="radio"].with-gap.radio-col-green:checked + label:before {
